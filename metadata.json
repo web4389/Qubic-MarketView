@@ -1,0 +1,5 @@
+{
+  "name": "Qubic MarketView",
+  "description": "Real-time Qubic Network candlestick chart using CoinGecko API with synthetic OHLC generation and multi-timeframe support.",
+  "requestFramePermissions": []
+}
